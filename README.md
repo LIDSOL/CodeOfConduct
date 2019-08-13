@@ -1,7 +1,4 @@
 # Pautas para la Participación en la comunidad de LIDSOL
-**Versión 1.0 -- Escrita el 31 de Enero del 2019**
-
-_Actualización el 25 de Julio del 2019_
 
 ## Visión general
 
