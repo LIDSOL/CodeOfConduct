@@ -11,7 +11,7 @@ geográfica, sistema operativo usado, editor de texto preferido,
 lenguaje de programación favorito o cualquier otra dimensión de la
 diversidad. Procuramos en todo momento aprender juntes y apoyamos la
 idea de que la fuerza de las comunidades nace de la diversidad. *INTER
-OMNES OMNIA SCIMUS* (Entre todos sabrémos todo).
+OMNES OMNIA SCIMUS* (Entre todos sabremos todo).
 
 ## ¿Cuándo y cómo deben usarse estas pautas?
 
@@ -45,8 +45,8 @@ afectar a los demás.
 
 Asume la responsabilidad del impacto que causas y de tus errores; si
 alguien considera que tus acciones o palabras lo han herido, escucha
-atentamente para comprenderlo, discúlpate sinceramente y corrige tu
-comportamiento a partir de ese momento.
+atentamente para comprenderlo, y en caso de ser necesario, discúlpate
+sinceramente y corrige tu comportamiento a partir de ese momento.
 
 ### Sé directo pero profesional
 
@@ -83,9 +83,9 @@ trabajo más interesante y valioso.
 
 Los camaradas pertenecientes a LIDSOL pueden proceder de diferentes
 orígenes y contextos. Las diferencias culturales pueden abarcar cualquier
-cosa, desde prácticas religiosas hasta los hábitos personales y la
+cosa, desde prácticas culturales hasta los hábitos personales y la
 manera de vestir. Sé respetuoso con las personas que tengan diferentes
-prácticas religiosas, actitudes y creencias. Esfuérzate para eliminar
+prácticas culturales, actitudes y creencias. Esfuérzate para eliminar
 tus favoritismos, prejuicios y prácticas discriminatorias. Piensa en las
 necesidades de los demás desde su punto de vista. Utiliza los títulos
 que prefieran (incluidos los pronombre) y el tono adecuado. Respeta el
@@ -163,11 +163,11 @@ El contacto físico o la atención sexual no deseada no son
 aceptables. Esto incluye chistes, imágenes o comentarios sexualizados
 en interacciones, comunicaciones o materiales de presentación, así
 como el contacto inadecuado o los avances sexuales. Incluso tocar a una
-persona sin su permiso, hasta en áreas sensibles como el pelo, la barriga
+persona sin su permiso, por ejemplo en áreas sensibles como el pelo, la barriga
 de una embarazada, el dispositivo de movilidad (silla de ruedas, moto
 scooter, etc.) o tatuajes. También se incluye obstaculizar físicamente
 o intimidar a otra persona. El contacto físico o el contacto físico
-simulado (con emoticonos como el de "beso", "abrazo", o otros) sin un
+simulado (con emojis como el de "beso", "abrazo", o otros) sin un
 consentimiento afirmativo no son aceptables. Esto incluye compartir o
 distribuir textos o imágenes sexualizadas.
 
@@ -177,22 +177,18 @@ No se tolerará la interrupción repetida de eventos, foros o reuniones,
 incluidas conferencias y presentaciones. Esto incluye lo siguiente:
 
 * Interrumpir o molestar a los oradores.
-* Beber alcohol en exceso o consumir drogas, además de incitar a otros
-  a que lo hagan
-* Realizar comentarios despectivos sobre los que se abstienen de consumir
-  alcohol u otras sustancias, insistir a alguien para que beba, hablar
-  sobre su abstinencia o sus preferencias con otros, o presionarlos para
-  que beban, de manera física o mediante burlas.
-* Influir de otra manera sobre las acciones de los presentes parta causar
+* Influir de otra manera sobre las acciones de los presentes para causar
   hostilidad en la sesión.
+* Cualquier actividad fuera del marco legal/normativo del espacio en que se
+  desarrolle
 
 ### Acoso
 
 No se tolerará ningún tipo de acoso, intimidación o seguimiento
-indeseado en persona o en línea (stalking).
+indeseado en persona o en línea (*stalking*).
 
 No se tolerará la toma de fotografías o cualquier tipo de grabación
-de audio o vídeo realizada sin el conocimiento y consentimiento, de
+de audio o vídeo realizada sin el conocimiento y consentimiento de
 todas las personas que aparecerán en la fotografía o grabación. La
 publicación en línea de cualquier fotografía o grabación realizada
 dentro del LIDSOL o alguno de sus eventos también requerirá
@@ -206,12 +202,12 @@ redes sociales, mensajes, cuadernos, apuntes, notas, mochila o cualquier
 otra pertenencia.
 
 También se incluye aquí publicar o amenazar con publicar
-información personal que identifique a una persona ("doxxing")
+información personal que identifique a una persona (*doxxing*)
 en línea.
 
 ### Abuso del proceso de denuncia
 
-Se considerará que todos los participantes que abusen del
+Se considerará que todes los participantes que abusen del
 proceso de denuncia también estarán infringiendo estas pautas y
 quedarán sujetos a las mismas consecuencias. No se aceptarán ni
 tolerarán denuncias falsas, especialmente con propósitos de exclusión
@@ -235,9 +231,8 @@ de la manera adecuada.
 Se espera que todos a quienes se les pida que interrumpan un
 comportamiento inaceptable lo hagan de forma inmediata. La infracción
 de estas pautas puede motivar que se te pida que abandones el evento o
-el espacio en línea, ya sea temporalmente o mientras dure el evento,
-o se te prohíba la participación en los espacios o los futuros eventos
-y actividades para siempre.
+el espacio en línea, ya sea mientras dure el evento, o se te prohíba la
+participación en los espacios o los futuros eventos y actividades. 
 
 Para cualquier evento realizado por el LIDSOL, el responsable de la
 seguridad del evento será publicado en la página web del evento,
@@ -251,15 +246,14 @@ la situación.
 
 ## Denuncias
 
-Si consideras que estás recibiendo un trato inaceptable que no se
-tolera según lo antes descrito,
-[ponte en contacto con nosotros a través de nuestras líneas de contacto](https://lidsol.org/#contacto).
-Los informes se enviarán directamente al Alto Consejo de LIDSOL y serán
-evaluados.
+Si consideras que estás recibiendo un trato inaceptable según lo antes
+descrito, [comunícate con nosotros a través de nuestras líneas de
+contacto](https://lidsol.org/#contacto). Las denuncias serán revisadas por el
+equipo de LIDSOL y serán evaluadas.
 
-Infórmanos también si observas una situación potencialmente peligrosa,
-alguien en dificultades o infracciones de estas pautas, incluso cuando
-la situación no te afecte directamente.
+Te invitamos a informarnos también si observas una situación potencialmente
+peligrosa, alguien en dificultades o infracciones de estas pautas, incluso
+cuando la situación no te afecte directamente.
 
 Si piensas que se te ha acusado injustamente de infringir estas pautas,
 sigue el mismo proceso de denuncia.
@@ -272,7 +266,7 @@ Se alienta a que cualquier persona plantee preguntas acerca de estas
 pautas, en las direcciones de [contacto](https://lidsol.org/#contacto)
 del laboratorio, o plantee correciones y mejoras al texto a través
 de la [sección de incidencias](https://gitlab.com/lidsol/coc/issues)
-del repositorio de este texto en Gitlab.
+del repositorio de este texto en GitLab.
 
 ## Licencia y atribución
 
