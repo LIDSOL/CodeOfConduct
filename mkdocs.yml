@@ -1,0 +1,6 @@
+# https://www.mkdocs.org/user-guide/configuration/
+site_name: LIDSoL - Código de Conducta
+site_url: https://lidsol.gitlab.io/coc/
+site_dir: public
+docs_dir: docs
+theme: bootstrap4
