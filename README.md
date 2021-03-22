@@ -1,8 +1,8 @@
-# Pautas para la Participación en la comunidad de LIDSOL
+# Pautas para la participación en la comunidad de LIDSoL
 
 ## Visión general
 
-**LIDSOL** es un laboratorio que promueve ambientes seguros y cómodos
+**LIDSoL** es un laboratorio que promueve ambientes seguros y cómodos
 para que cualquier persona pueda participar, sin importar origen,
 estado familiar, género, identidad o expresión de género, estado
 civil, raza y/o etnia, sexo, orientación sexual, idioma materno, edad,
@@ -10,28 +10,28 @@ capacidad, origen nacional, estado socioeconómico, religión, ubicación
 geográfica, sistema operativo usado, editor de texto preferido,
 lenguaje de programación favorito o cualquier otra dimensión de la
 diversidad. Procuramos en todo momento aprender juntes y apoyamos la
-idea de que la fuerza de las comunidades nace de la diversidad. *INTER
-OMNES OMNIA SCIMUS* (Entre todos sabremos todo).
+idea de que la fuerza de las comunidades nace de la diversidad. _INTER
+OMNES OMNIA SCIMUS_ (Entre todos sabremos todo).
 
 ## ¿Cuándo y cómo deben usarse estas pautas?
 
-Este código de conducta aplica a *todes les integrantes de LIDSOL
-y personas externas* que quieran participar en las actividades que
-LIDSOL sea organizador o invitado. Se incluyen, entre otras, las
+Este código de conducta aplica a _todes les integrantes de LIDSoL
+y personas externas_ que quieran participar en las actividades que
+LIDSoL sea organizador o invitado. Se incluyen, entre otras, las
 siguientes situaciones y lugares.
 
-* En el LIDSOL (Edificio P-2° piso del Anexo de la Facultad de
-  Ingeniería, UNAM)
-* En el trabajo con otras personas de forma remota o en la misma
+- En las instalaciones de LIDSoL: Edificio P 2° piso del
+  Anexo de la Facultad de Ingeniería, Ciudad Universitaria, UNAM
+- En el trabajo con otras personas de forma remota o en la misma
   ubicación física
-* En eventos públicos y privados
-* En la interacción en las redes sociales
-* Participación en listas de correos, wikis, sitios web, canales de
+- En eventos públicos y privados
+- En la interacción en las redes sociales
+- Participación en listas de correos, wikis, sitios web, canales de
   chat y reuniones de trabajo
 
 ## Comportamiento esperado
 
-Se espera que al participar en actividades del LIDSOL te comportes
+Se espera que al participar en actividades del LIDSoL te comportes
 de la siguiente manera:
 
 ### Sé respetuoso
@@ -64,12 +64,12 @@ tiempo que acaparan los miembros dominantes del grupo.
 Facilita la participación de todes, respetando y facilitando sus
 aportaciones independientemente de que:
 
-* Participen de manera remota (por vídeo o teléfono)
-* Sean hablantes no nativos
-* Procedan de una cultura diferente
-* Usen pronombres diferentes de "él" o "ella"
-* Vivan en una zona horaria diferente
-* Enfrenten otras dificultades para participar
+- Participen de manera remota (por vídeo o teléfono)
+- Sean hablantes no nativos
+- Procedan de una cultura diferente
+- Usen pronombres diferentes de "él" o "ella"
+- Vivan en una zona horaria diferente
+- Enfrenten otras dificultades para participar
 
 ### Comprende puntos de vista diferentes
 
@@ -81,7 +81,7 @@ trabajo más interesante y valioso.
 
 ### Aprecia y da cabida a nuestros puntos en común y nuestras diferencias
 
-Los camaradas pertenecientes a LIDSOL pueden proceder de diferentes
+Los camaradas pertenecientes a LIDSoL pueden proceder de diferentes
 orígenes y contextos. Las diferencias culturales pueden abarcar cualquier
 cosa, desde prácticas culturales hasta los hábitos personales y la
 manera de vestir. Sé respetuoso con las personas que tengan diferentes
@@ -92,7 +92,7 @@ que prefieran (incluidos los pronombre) y el tono adecuado. Respeta el
 derecho de los demás a la privacidad y a la confidencialidad. Mantente
 abierto a aprender de los demás, además de educarlos y educarte a
 ti mismo; no es realista esperar que las personas pertenecientes a
-LIDSOL conozcan las prácticas culturales de todos los grupos étnicos
+LIDSoL conozcan las prácticas culturales de todos los grupos étnicos
 y culturales, pero todos deben aceptar que su propia cultura nativa es
 solo una parte de las interacciones positivas.
 
@@ -104,7 +104,7 @@ a comportarse y responder de manera valiosa y adecuada para los fines
 de nuestra organización. Diseña tu comunidad y tu trabajo para que
 sean inclusivos. Tanto tú como los demás son responsables de los
 comportamientos inclusivos. Toma las decisiones pensando en el bien
-mayor para la misión de LIDSOL.
+mayor para la misión de LIDSoL.
 
 ## Comportamientos que no se tolerarán
 
@@ -133,22 +133,22 @@ centrándose siempre en el tema en cuestión.
 El lenguaje despectivo incluye los comentarios hirientes o dañinos
 relacionados, pero no limitados, con lo siguiente:
 
-* Origen
-* Estado familiar
-* Género
-* Identidad o expresión de género
-* Estado civil
-* Sexo
-* Orientación sexual
-* Idioma materno
-* Edad
-* Capacidad
-* Raza y/o etnia
-* Origen nacional
-* Estado socioeconómico
-* Religión
-* Ubicación geográfica
-* Otros atributos
+- Origen
+- Estado familiar
+- Género
+- Identidad o expresión de género
+- Estado civil
+- Sexo
+- Orientación sexual
+- Idioma materno
+- Edad
+- Capacidad
+- Raza y/o etnia
+- Origen nacional
+- Estado socioeconómico
+- Religión
+- Ubicación geográfica
+- Otros atributos o condiciones
 
 Esto incluye referirse deliberadamente a alguien usando un género con
 el que no se identifica o cuestionar la legitimidad de la identidad de
@@ -176,22 +176,22 @@ distribuir textos o imágenes sexualizadas.
 No se tolerará la interrupción repetida de eventos, foros o reuniones,
 incluidas conferencias y presentaciones. Esto incluye lo siguiente:
 
-* Interrumpir o molestar a los oradores.
-* Influir de otra manera sobre las acciones de los presentes para causar
+- Interrumpir o molestar a los oradores.
+- Influir de otra manera sobre las acciones de los presentes para causar
   hostilidad en la sesión.
-* Cualquier actividad fuera del marco legal/normativo del espacio en que se
+- Cualquier actividad fuera del marco legal/normativo del espacio en que se
   desarrolle
 
 ### Acoso
 
 No se tolerará ningún tipo de acoso, intimidación o seguimiento
-indeseado en persona o en línea (*stalking*).
+indeseado en persona o en línea (_stalking_).
 
 No se tolerará la toma de fotografías o cualquier tipo de grabación
 de audio o vídeo realizada sin el conocimiento y consentimiento de
 todas las personas que aparecerán en la fotografía o grabación. La
 publicación en línea de cualquier fotografía o grabación realizada
-dentro del LIDSOL o alguno de sus eventos también requerirá
+dentro del LIDSoL o alguno de sus eventos también requerirá
 autorización.
 
 ### Vulneraciones de la privacidad
@@ -202,7 +202,7 @@ redes sociales, mensajes, cuadernos, apuntes, notas, mochila o cualquier
 otra pertenencia.
 
 También se incluye aquí publicar o amenazar con publicar
-información personal que identifique a una persona (*doxxing*)
+información personal que identifique a una persona (_doxxing_)
 en línea.
 
 ### Abuso del proceso de denuncia
@@ -222,10 +222,10 @@ consecuencias serán las mismas.
 ## Consecuencias del comportamiento inaceptable
 
 No se tolerará el mal comportamiento de ninguna persona perteneciente a
-LIDSOL, incluidos quienes cuentan con autoridad para tomar decisiones. Los
+LIDSoL, incluidos quienes cuentan con autoridad para tomar decisiones. Los
 esfuerzos intencionados para excluir personas (a excepción de los
 que formen parte de las consecuencias de las pautas u otras acciones
-oficiales) de las actividades de LIDSOL no son aceptables y se tratarán
+oficiales) de las actividades de LIDSoL no son aceptables y se tratarán
 de la manera adecuada.
 
 Se espera que todos a quienes se les pida que interrumpan un
@@ -234,7 +234,7 @@ de estas pautas puede motivar que se te pida que abandones el evento o
 el espacio en línea, ya sea mientras dure el evento, o se te prohíba la
 participación en los espacios o los futuros eventos y actividades. 
 
-Para cualquier evento realizado por el LIDSOL, el responsable de la
+Para cualquier evento realizado por el LIDSoL, el responsable de la
 seguridad del evento será publicado en la página web del evento,
 y se presentará al inicio del evento y de ser posible al inicio de
 cada conferencia.
@@ -248,8 +248,9 @@ la situación.
 
 Si consideras que estás recibiendo un trato inaceptable según lo antes
 descrito, [comunícate con nosotros a través de nuestras líneas de
-contacto](https://lidsol.org/#contacto). Las denuncias serán revisadas por el
-equipo de LIDSOL y serán evaluadas.
+contacto][lidsol-contacto].
+Las denuncias serán revisadas por el equipo de LIDSoL y serán evaluadas.
+
 
 Te invitamos a informarnos también si observas una situación potencialmente
 peligrosa, alguien en dificultades o infracciones de estas pautas, incluso
@@ -258,32 +259,44 @@ cuando la situación no te afecte directamente.
 Si piensas que se te ha acusado injustamente de infringir estas pautas,
 sigue el mismo proceso de denuncia.
 
-* Correo de LIDSOL: [lidsol@protonmail.com](mailto:lidsol@protonmail.com)
+- Correo de LIDSoL: <lidsol@protonmail.com>
 
 ## Preguntas
 
 Se alienta a que cualquier persona plantee preguntas acerca de estas
-pautas, en las direcciones de [contacto](https://lidsol.org/#contacto)
+pautas, en las direcciones de [contacto][lidsol-contacto]
 del laboratorio, o plantee correciones y mejoras al texto a través
-de la [sección de incidencias](https://gitlab.com/lidsol/coc/issues)
+de la [sección de incidencias][lidsol-coc-incidencias]
 del repositorio de este texto en GitLab.
+
 
 ## Licencia y atribución
 
 Este conjunto de pautas se distribuye bajo una licencia
-[Creative Commons Atribución-CompartirIgual](https://creativecommons.org/licenses/by-sa/3.0/).
+[Creative Commons Atribución-CompartirIgual][cc-by-sa-3.0]
 
-Estas pautas se han adaptado con modificaciones
-de las
-[pautas comunitarias para la participación de Mozilla]("https://www.mozilla.org/es-ES/about/governance/policies/participation/"),
-el [Código de conducta de Ubuntu](https://www.ubuntu.com/about/about-ubuntu/conduct),
-el [Código de conducta de la View Source Conference](https://viewsourceconf.org/berlin-2016/code-of-conduct/)
-de Mozilla y el
-[Código de conducta del lenguaje Rust](https://www.rust-lang.org/conduct.html),
-que se basan en el
-[Código de conducta ciudadana](http://citizencodeofconduct.org/) de
-Stumptown Syndicate. Texto adicional del
-[Código de conducta de LGBTQ en tecnología](http://lgbtq.technology/coc.html)
-y el [Código de conducta WisCon](http://wiscon.net/policies/anti-harassment/code-of-conduct/).
+Estas pautas se han adaptado con modificaciones de estos lineamientos:
+
+- Las [pautas comunitarias para la participación de Mozilla][mozilla-policies]
+- El [código de conducta de Ubuntu][ubuntu-coc]
+- El [código de conducta de la View Source Conference][viewsource-coc] de Mozilla
+- El [código de conducta del lenguaje Rust][rust-coc]
+- El [Código de conducta ciudadana][citizen-coc] de Stumptown Syndicate
+- Texto adicional del [Código de conducta de LGBTQ en tecnología][lgbtq-coc]
+- El [Código de conducta WisCon][wiscon-coc].
+
 Este documento y todos los procesos asociados solo son posibles gracias
-al duro trabajo de muchos camaradas de LIDSOL.
+al duro trabajo de muchos camaradas de LIDSoL.
+
+--------------------------------------------------------------------------------
+
+[lidsol-contacto]: https://lidsol.org/#contacto
+[lidsol-coc-incidencias]: https://gitlab.com/lidsol/coc/issues
+[cc-by-sa-3.0]: https://creativecommons.org/licenses/by-sa/3.0/
+[mozilla-policies]: https://www.mozilla.org/es-ES/about/governance/policies/participation/
+[ubuntu-coc]: https://www.ubuntu.com/about/about-ubuntu/conduct
+[viewsource-coc]: https://viewsourceconf.org/berlin-2016/code-of-conduct/
+[rust-coc]: https://www.rust-lang.org/conduct.html
+[citizen-coc]: http://citizencodeofconduct.org/
+[lgbtq-coc]: http://lgbtq.technology/coc.html
+[wiscon-coc]: http://wiscon.net/policies/anti-harassment/code-of-conduct/
