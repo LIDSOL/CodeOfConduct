@@ -267,7 +267,7 @@ Se alienta a que cualquier persona plantee preguntas acerca de estas
 pautas, en las direcciones de [contacto][lidsol-contacto]
 del laboratorio, o plantee correciones y mejoras al texto a través
 de la [sección de incidencias][lidsol-coc-incidencias]
-del repositorio de este texto en GitLab.
+del repositorio de este texto en Github.
 
 
 ## Licencia y atribución
@@ -291,7 +291,7 @@ al duro trabajo de muchos camaradas de LIDSoL.
 --------------------------------------------------------------------------------
 
 [lidsol-contacto]: https://lidsol.org/#contacto
-[lidsol-coc-incidencias]: https://gitlab.com/lidsol/coc/issues
+[lidsol-coc-incidencias]: https://github.com/LIDSOL/CodeOfConduct/issues
 [cc-by-sa-3.0]: https://creativecommons.org/licenses/by-sa/3.0/
 [mozilla-policies]: https://www.mozilla.org/es-ES/about/governance/policies/participation/
 [ubuntu-coc]: https://www.ubuntu.com/about/about-ubuntu/conduct
